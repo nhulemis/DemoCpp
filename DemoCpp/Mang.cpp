@@ -164,4 +164,5 @@ int main() {
 	xuat(n, a);
 	system("pause");
 	return 0;
+	//thay doi mot chut
 }
